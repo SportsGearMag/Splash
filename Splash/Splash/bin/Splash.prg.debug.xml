@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="/Users/grubdunkman/Documents/Splash/Splash/manifest.xml"/>
+<pcToLineNum>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashApp.mc" id="1" lineNum="26" parent="globals" pc="268435460" symbol="getApp"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashApp.mc" id="1" lineNum="27" parent="globals" pc="268435470" symbol="getApp"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashDelegate.mc" id="2" lineNum="8" parent="globals/SplashDelegate" pc="268435486" symbol="&lt;init&gt;"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashDelegate.mc" id="3" lineNum="10" parent="globals/SplashDelegate" pc="268435505" symbol="initialize"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashDelegate.mc" id="3" lineNum="11" parent="globals/SplashDelegate" pc="268435507" symbol="initialize"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashDelegate.mc" id="4" lineNum="14" parent="globals/SplashDelegate" pc="268435526" symbol="onKey"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashDelegate.mc" id="4" lineNum="15" parent="globals/SplashDelegate" pc="268435528" symbol="onKey"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashDelegate.mc" id="4" lineNum="16" parent="globals/SplashDelegate" pc="268435568" symbol="onKey"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashDelegate.mc" id="4" lineNum="17" parent="globals/SplashDelegate" pc="268435587" symbol="onKey"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashDelegate.mc" id="4" lineNum="18" parent="globals/SplashDelegate" pc="268435611" symbol="onKey"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashDelegate.mc" id="4" lineNum="19" parent="globals/SplashDelegate" pc="268435627" symbol="onKey"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashDelegate.mc" id="4" lineNum="22" parent="globals/SplashDelegate" pc="268435633" symbol="onKey"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashDelegate.mc" id="4" lineNum="23" parent="globals/SplashDelegate" pc="268435673" symbol="onKey"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashDelegate.mc" id="4" lineNum="24" parent="globals/SplashDelegate" pc="268435692" symbol="onKey"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashDelegate.mc" id="4" lineNum="25" parent="globals/SplashDelegate" pc="268435716" symbol="onKey"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashDelegate.mc" id="4" lineNum="26" parent="globals/SplashDelegate" pc="268435732" symbol="onKey"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashApp.mc" id="5" lineNum="5" parent="globals/SplashApp" pc="268435739" symbol="&lt;init&gt;"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashApp.mc" id="6" lineNum="12" parent="globals/SplashApp" pc="268435758" symbol="onStart"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashApp.mc" id="7" lineNum="20" parent="globals/SplashApp" pc="268435761" symbol="getInitialView"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashApp.mc" id="7" lineNum="21" parent="globals/SplashApp" pc="268435763" symbol="getInitialView"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashApp.mc" id="8" lineNum="7" parent="globals/SplashApp" pc="268435838" symbol="initialize"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashApp.mc" id="8" lineNum="8" parent="globals/SplashApp" pc="268435840" symbol="initialize"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashApp.mc" id="9" lineNum="16" parent="globals/SplashApp" pc="268435859" symbol="onStop"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/bin/gen/006-B4315-00/source/Rez.mcgen" id="10" lineNum="7" parent="globals/Rez" pc="268435862" symbol="&lt;init&gt;"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashView.mc" id="11" lineNum="12" parent="globals/SplashView" pc="268435886" symbol="&lt;init&gt;"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashView.mc" id="13" lineNum="19" parent="globals/SplashView" pc="268435905" symbol="onLayout"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashView.mc" id="13" lineNum="20" parent="globals/SplashView" pc="268435907" symbol="onLayout"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashView.mc" id="13" lineNum="21" parent="globals/SplashView" pc="268435948" symbol="onLayout"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashView.mc" id="13" lineNum="22" parent="globals/SplashView" pc="268435972" symbol="onLayout"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashView.mc" id="13" lineNum="23" parent="globals/SplashView" pc="268435996" symbol="onLayout"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashView.mc" id="13" lineNum="24" parent="globals/SplashView" pc="268436020" symbol="onLayout"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashView.mc" id="13" lineNum="25" parent="globals/SplashView" pc="268436044" symbol="onLayout"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashView.mc" id="13" lineNum="26" parent="globals/SplashView" pc="268436068" symbol="onLayout"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashView.mc" id="14" lineNum="14" parent="globals/SplashView" pc="268436093" symbol="initialize"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashView.mc" id="14" lineNum="15" parent="globals/SplashView" pc="268436095" symbol="initialize"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashView.mc" id="16" lineNum="36" parent="globals/SplashView" pc="268436114" symbol="onUpdate"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashView.mc" id="16" lineNum="38" parent="globals/SplashView" pc="268436116" symbol="onUpdate"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashView.mc" id="16" lineNum="39" parent="globals/SplashView" pc="268436136" symbol="onUpdate"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashView.mc" id="16" lineNum="40" parent="globals/SplashView" pc="268436148" symbol="onUpdate"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashView.mc" id="16" lineNum="41" parent="globals/SplashView" pc="268436168" symbol="onUpdate"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashView.mc" id="16" lineNum="41" parent="globals/SplashView" pc="268436185" symbol="onUpdate"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashView.mc" id="16" lineNum="42" parent="globals/SplashView" pc="268436208" symbol="onUpdate"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashView.mc" id="16" lineNum="42" parent="globals/SplashView" pc="268436225" symbol="onUpdate"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashView.mc" id="16" lineNum="43" parent="globals/SplashView" pc="268436248" symbol="onUpdate"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashView.mc" id="16" lineNum="43" parent="globals/SplashView" pc="268436265" symbol="onUpdate"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashView.mc" id="16" lineNum="44" parent="globals/SplashView" pc="268436288" symbol="onUpdate"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashView.mc" id="16" lineNum="44" parent="globals/SplashView" pc="268436305" symbol="onUpdate"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashView.mc" id="16" lineNum="45" parent="globals/SplashView" pc="268436328" symbol="onUpdate"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/source/SplashView.mc" id="16" lineNum="45" parent="globals/SplashView" pc="268436345" symbol="onUpdate"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/bin/gen/006-B4315-00/source/Rez.mcgen" id="17" lineNum="25" parent="globals/Rez/Layouts" pc="268436369" symbol="MainLayout"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/bin/gen/006-B4315-00/source/Rez.mcgen" id="17" lineNum="26" parent="globals/Rez/Layouts" pc="268436381" symbol="MainLayout"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/bin/gen/006-B4315-00/source/Rez.mcgen" id="17" lineNum="27" parent="globals/Rez/Layouts" pc="268436486" symbol="MainLayout"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/bin/gen/006-B4315-00/source/Rez.mcgen" id="17" lineNum="29" parent="globals/Rez/Layouts" pc="268436538" symbol="MainLayout"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/bin/gen/006-B4315-00/source/Rez.mcgen" id="17" lineNum="31" parent="globals/Rez/Layouts" pc="268436643" symbol="MainLayout"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/bin/gen/006-B4315-00/source/Rez.mcgen" id="17" lineNum="33" parent="globals/Rez/Layouts" pc="268436748" symbol="MainLayout"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/bin/gen/006-B4315-00/source/Rez.mcgen" id="17" lineNum="34" parent="globals/Rez/Layouts" pc="268436853" symbol="MainLayout"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/bin/gen/006-B4315-00/source/Rez.mcgen" id="17" lineNum="36" parent="globals/Rez/Layouts" pc="268436893" symbol="MainLayout"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/bin/gen/006-B4315-00/source/Rez.mcgen" id="17" lineNum="38" parent="globals/Rez/Layouts" pc="268436998" symbol="MainLayout"/>
+<entry filename="/Users/grubdunkman/Documents/Splash/Splash/bin/gen/006-B4315-00/source/Rez.mcgen" id="17" lineNum="40" parent="globals/Rez/Layouts" pc="268437103" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry field="true" id="26" symbol="topkey"/>
+<entry id="7" module="true" symbol="globals/Rez/Menus"/>
+<entry id="9" object="true" symbol="SplashApp"/>
+<entry id="27" method="true" symbol="MainLayout"/>
+<entry field="true" id="8389310" symbol="position"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="15" symbol="_rightcorner"/>
+<entry field="true" id="28" symbol="AppName"/>
+<entry id="8" module="true" symbol="globals/Rez/Strings"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry field="true" id="13" symbol="_leftcorner"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry field="true" id="22" symbol="leftcorner"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry field="true" id="21" symbol="halfcourt"/>
+<entry id="19" module="true" symbol="Menus"/>
+<entry id="8389275" method="true" symbol="getApp"/>
+<entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="12" symbol="_background"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry field="true" id="14" symbol="_leftwing"/>
+<entry field="true" id="25" symbol="rightwing"/>
+<entry id="5" module="true" symbol="globals/Rez/JsonData"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry field="true" id="23" symbol="leftwing"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry field="true" id="17" symbol="_topkey"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="20" symbol="LauncherIcon"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="11" object="true" symbol="SplashView"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389097" method="true" symbol="onKey"/>
+<entry field="true" id="24" symbol="rightcorner"/>
+<entry id="18" module="true" symbol="Layouts"/>
+<entry id="10" object="true" symbol="SplashDelegate"/>
+<entry field="true" id="16" symbol="_rightwing"/>
+<entry id="4" module="true" symbol="globals/Rez/Fonts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry arg="true" endPc="268435738" name="key" stackId="1" startPc="268435526"/>
+<entry arg="true" endPc="268436092" name="dc" stackId="1" startPc="268435905"/>
+<entry arg="true" endPc="268436368" name="dc" stackId="1" startPc="268436114"/>
+<entry arg="true" endPc="268437169" name="dc" stackId="1" startPc="268436369"/>
+<entry endPc="268437169" name="rez_cmp_local_bitmap_halfcourt" stackId="2" startPc="268436381"/>
+<entry endPc="268437169" name="rez_cmp_local_bitmap_leftcorner" stackId="3" startPc="268436381"/>
+<entry endPc="268437169" name="rez_cmp_local_bitmap_leftwing" stackId="4" startPc="268436381"/>
+<entry endPc="268437169" name="rez_cmp_local_bitmap_topkey" stackId="5" startPc="268436381"/>
+<entry endPc="268437169" name="rez_cmp_local_bitmap_rightwing" stackId="6" startPc="268436381"/>
+<entry endPc="268437169" name="rez_cmp_local_bitmap_rightcorner" stackId="7" startPc="268436381"/>
+</localVars>
+<annotations>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="leftcorner"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="leftwing"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="rightcorner"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="rightwing"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="halfcourt"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="topkey"/>
+</annotations>
+<dataEntryOffsetMappings>
+<dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry label="globals/SplashDelegate" offset="222" parentId="globals" symbolId="SplashDelegate" type="class"/>
+<dataEntry label="globals/SplashApp" offset="277" parentId="globals" symbolId="SplashApp" type="class"/>
+<dataEntry label="globals/Rez" offset="348" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/SplashView" offset="427" parentId="globals" symbolId="SplashView" type="class"/>
+<dataEntry label="globals/Rez/Drawables" offset="506" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="593" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/Menus" offset="632" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry label="globals/Rez/Fonts" offset="663" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="694" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry label="globals/Rez/JsonData" offset="733" parentId="Rez" symbolId="JsonData" type="module"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" endPc="268435485" name="getApp" startPc="268435460">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435504" name="&lt;init&gt;" parent="SplashDelegate" startPc="268435486">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435525" name="initialize" parent="SplashDelegate" startPc="268435505">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435738" name="onKey" parent="SplashDelegate" startPc="268435526">
+<param id="key"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435757" name="&lt;init&gt;" parent="SplashApp" startPc="268435739">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435760" name="onStart" parent="SplashApp" startPc="268435758">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435837" name="getInitialView" parent="SplashApp" startPc="268435761">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435858" name="initialize" parent="SplashApp" startPc="268435838">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435861" name="onStop" parent="SplashApp" startPc="268435859">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435885" name="&lt;init&gt;" parent="Rez" startPc="268435862">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435904" name="&lt;init&gt;" parent="SplashView" startPc="268435886">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="SplashView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436092" name="onLayout" parent="SplashView" startPc="268435905">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436113" name="initialize" parent="SplashView" startPc="268436093">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="SplashView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436368" name="onUpdate" parent="SplashView" startPc="268436114">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Layouts">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Menus">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Fonts">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="JsonData">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437169" name="MainLayout" parent="Layouts" startPc="268436369">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

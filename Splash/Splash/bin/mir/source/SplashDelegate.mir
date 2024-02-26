@@ -1,0 +1,115 @@
+[ @file = "/Users/grubdunkman/Documents/Splash/Splash/source/SplashDelegate.mc"; @line = 1; ]
+import Toybox.Lang;
+[ @file = "/Users/grubdunkman/Documents/Splash/Splash/source/SplashDelegate.mc"; @line = 2; ]
+import Toybox.WatchUi;
+[ @file = "/Users/grubdunkman/Documents/Splash/Splash/source/SplashDelegate.mc"; @line = 3; ]
+import Toybox.System;
+[ @file = "/Users/grubdunkman/Documents/Splash/Splash/source/SplashDelegate.mc"; @line = 6; @position = 4; ]
+var position = 3;
+[ @file = "/Users/grubdunkman/Documents/Splash/Splash/source/SplashDelegate.mc"; @line = 8; ]
+class SplashDelegate extends WatchUi.BehaviorDelegate{
+    [ @file = "/Users/grubdunkman/Documents/Splash/Splash/source/SplashDelegate.mc"; @line = 8; ]
+    <init> {
+    }
+    [ @file = "/Users/grubdunkman/Documents/Splash/Splash/source/SplashDelegate.mc"; @line = 8; ]
+    static
+    <init> {
+    }
+    [ @file = "/Users/grubdunkman/Documents/Splash/Splash/source/SplashDelegate.mc"; @line = 10; ]
+    function initialize() as Void {
+_Users_grubdunkman_Documents_Splash_Splash_source_SplashDelegate_mc_10_26_start:
+[ "/Users/grubdunkman/Documents/Splash/Splash/source/SplashDelegate.mc" 11 8 ]
+        %tmp.2 = getv ? :BehaviorDelegate;
+        %tmp.3 = getv function %tmp.2 :initialize;
+        invoke %tmp.2 %tmp.3();
+_Users_grubdunkman_Documents_Splash_Splash_source_SplashDelegate_mc_10_26_stop:
+    }
+    [ @file = "/Users/grubdunkman/Documents/Splash/Splash/source/SplashDelegate.mc"; @line = 14; ]
+    function onKey(key) {
+_Users_grubdunkman_Documents_Splash_Splash_source_SplashDelegate_mc_14_25_start:
+[ "/Users/grubdunkman/Documents/Splash/Splash/source/SplashDelegate.mc" 15 8 ]
+_Users_grubdunkman_Documents_Splash_Splash_source_SplashDelegate_mc_15_8_if_stmt:
+_Users_grubdunkman_Documents_Splash_Splash_source_SplashDelegate_mc_15_12_begin:
+        %tmp.1 = lgetv %key;
+        %tmp.2 = getv function %tmp.1 :getKey;
+        %tmp.3 = invoke %tmp.1 %tmp.2();
+        %tmp.4 = 8;
+        %tmp.5 = eq %tmp.3 %tmp.4;
+        %tmp.6 = dup %tmp.5;
+        bf %tmp.6 @_Users_grubdunkman_Documents_Splash_Splash_source_SplashDelegate_mc_15_33_end;
+_Users_grubdunkman_Documents_Splash_Splash_source_SplashDelegate_mc_15_33_true:
+        %tmp.8 = getv ? :position;
+        %tmp.9 = 5;
+        %tmp.10 = lt %tmp.8 %tmp.9;
+        %tmp.11 = and %tmp.5 %tmp.10;
+        push %tmp.11;
+_Users_grubdunkman_Documents_Splash_Splash_source_SplashDelegate_mc_15_33_end:
+        %tmp.12 = phi [%tmp.6 @_Users_grubdunkman_Documents_Splash_Splash_source_SplashDelegate_mc_15_12_begin] [%tmp.11 @_Users_grubdunkman_Documents_Splash_Splash_source_SplashDelegate_mc_15_33_true] [%tmp.12 @_Users_grubdunkman_Documents_Splash_Splash_source_SplashDelegate_mc_15_33_end];
+        bf %tmp.12 @_Users_grubdunkman_Documents_Splash_Splash_source_SplashDelegate_mc_15_8_if_end;
+_Users_grubdunkman_Documents_Splash_Splash_source_SplashDelegate_mc_15_8_if_true:
+_Users_grubdunkman_Documents_Splash_Splash_source_SplashDelegate_mc_15_46_start:
+[ "/Users/grubdunkman/Documents/Splash/Splash/source/SplashDelegate.mc" 16 12 ]
+        %tmp.15 = getv ? :position;
+        %tmp.16 = add %tmp.15 1;
+        putv self :position dup %tmp.16;
+[ "/Users/grubdunkman/Documents/Splash/Splash/source/SplashDelegate.mc" 17 12 ]
+        %tmp.17 = getm $.Toybox.System;
+        %tmp.18 = getv function %tmp.17 :println;
+        %tmp.20 = getv ? :position;
+        invoke %tmp.17 %tmp.18(%tmp.20);
+[ "/Users/grubdunkman/Documents/Splash/Splash/source/SplashDelegate.mc" 18 12 ]
+        %tmp.21 = getm $.Toybox.WatchUi;
+        %tmp.22 = getv function %tmp.21 :requestUpdate;
+        invoke %tmp.21 %tmp.22();
+[ "/Users/grubdunkman/Documents/Splash/Splash/source/SplashDelegate.mc" 19 12 ]
+        %tmp.23 = true;
+        ret %tmp.23;
+_Users_grubdunkman_Documents_Splash_Splash_source_SplashDelegate_mc_15_46_stop:
+        goto @_Users_grubdunkman_Documents_Splash_Splash_source_SplashDelegate_mc_15_8_if_end;
+_Users_grubdunkman_Documents_Splash_Splash_source_SplashDelegate_mc_15_8_if_end:
+[ "/Users/grubdunkman/Documents/Splash/Splash/source/SplashDelegate.mc" 22 8 ]
+_Users_grubdunkman_Documents_Splash_Splash_source_SplashDelegate_mc_22_8_if_stmt:
+_Users_grubdunkman_Documents_Splash_Splash_source_SplashDelegate_mc_22_12_begin:
+        %tmp.24 = lgetv %key;
+        %tmp.25 = getv function %tmp.24 :getKey;
+        %tmp.26 = invoke %tmp.24 %tmp.25();
+        %tmp.27 = 13;
+        %tmp.28 = eq %tmp.26 %tmp.27;
+        %tmp.29 = dup %tmp.28;
+        bf %tmp.29 @_Users_grubdunkman_Documents_Splash_Splash_source_SplashDelegate_mc_22_34_end;
+_Users_grubdunkman_Documents_Splash_Splash_source_SplashDelegate_mc_22_34_true:
+        %tmp.31 = getv ? :position;
+        %tmp.32 = 1;
+        %tmp.33 = gt %tmp.31 %tmp.32;
+        %tmp.34 = and %tmp.28 %tmp.33;
+        push %tmp.34;
+_Users_grubdunkman_Documents_Splash_Splash_source_SplashDelegate_mc_22_34_end:
+        %tmp.35 = phi [%tmp.29 @_Users_grubdunkman_Documents_Splash_Splash_source_SplashDelegate_mc_22_12_begin] [%tmp.34 @_Users_grubdunkman_Documents_Splash_Splash_source_SplashDelegate_mc_22_34_true] [%tmp.35 @_Users_grubdunkman_Documents_Splash_Splash_source_SplashDelegate_mc_22_34_end];
+        bf %tmp.35 @_Users_grubdunkman_Documents_Splash_Splash_source_SplashDelegate_mc_22_8_if_end;
+_Users_grubdunkman_Documents_Splash_Splash_source_SplashDelegate_mc_22_8_if_true:
+_Users_grubdunkman_Documents_Splash_Splash_source_SplashDelegate_mc_22_47_start:
+[ "/Users/grubdunkman/Documents/Splash/Splash/source/SplashDelegate.mc" 23 12 ]
+        %tmp.38 = getv ? :position;
+        %tmp.39 = sub %tmp.38 1;
+        putv self :position dup %tmp.39;
+[ "/Users/grubdunkman/Documents/Splash/Splash/source/SplashDelegate.mc" 24 12 ]
+        %tmp.40 = getm $.Toybox.System;
+        %tmp.41 = getv function %tmp.40 :println;
+        %tmp.43 = getv ? :position;
+        invoke %tmp.40 %tmp.41(%tmp.43);
+[ "/Users/grubdunkman/Documents/Splash/Splash/source/SplashDelegate.mc" 25 13 ]
+        %tmp.44 = getm $.Toybox.WatchUi;
+        %tmp.45 = getv function %tmp.44 :requestUpdate;
+        invoke %tmp.44 %tmp.45();
+[ "/Users/grubdunkman/Documents/Splash/Splash/source/SplashDelegate.mc" 26 12 ]
+        %tmp.46 = true;
+        ret %tmp.46;
+_Users_grubdunkman_Documents_Splash_Splash_source_SplashDelegate_mc_22_47_stop:
+        goto @_Users_grubdunkman_Documents_Splash_Splash_source_SplashDelegate_mc_22_8_if_end;
+_Users_grubdunkman_Documents_Splash_Splash_source_SplashDelegate_mc_22_8_if_end:
+_Users_grubdunkman_Documents_Splash_Splash_source_SplashDelegate_mc_14_25_stop:
+    }
+}
+[ @file = "/Users/grubdunkman/Documents/Splash/Splash/source/SplashDelegate.mc"; @line = 1; ]
+<init> {
+}
